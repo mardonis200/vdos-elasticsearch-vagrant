@@ -10,7 +10,10 @@ Elasticsearch can be queried directly on
 
 127.0.0.1:9200
 
-Or kibana can be access on:
+Or kibana can be accessed on:
 
 127.0.0.1:5601
 
+See more here:
+
+http://www.toms-blog.com/post/vdos-analysis-elk-stack-vagrant/
